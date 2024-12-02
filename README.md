@@ -53,16 +53,17 @@ npm start [day]
 Each day's solution follows this template:
 
 ```typescript
-import { readInput } from '@utils/input';
+import { readInput } from '@src/utils';
 
 function solve(input: string[]): any {
   return 0; // Your solution logic here
 }
 
-if (require.main === module) {
-  const result = solve(readInput(__dirname));
-  console.log(result);
-}
+// Measure performance of the solution
+const start = performance.now()
+let result = solve(readInput(__dirname))
+const end = performance.now()
+console.log(result, `\nOperation took ${(end - start).toFixed(3)} milliseconds`);
 ```
 
 ## Utility Functions

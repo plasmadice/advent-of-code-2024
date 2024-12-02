@@ -15,9 +15,6 @@ function solve(input: string[]): any {
   let sortedL = quickSort(l)
   let sortedR = quickSort(r)
 
-  console.log('Sorted L:', sortedL.length)
-  console.log('Sorted R:', sortedR.length)
-
   for (let i = 0; i < sortedL.length; i++) {
     if (sortedL[i] && sortedR[i]) {
       total += Math.abs(sortedL[i] - sortedR[i])
@@ -27,5 +24,8 @@ function solve(input: string[]): any {
   return total
 }
 
-const result = solve(readInput(__dirname));
-console.log(result)
+// Measure performance of the solution
+const start = performance.now()
+let result = solve(readInput(__dirname))
+const end = performance.now()
+console.log(result, `\nOperation took ${(end - start).toFixed(3)} milliseconds`);

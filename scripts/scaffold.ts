@@ -9,16 +9,17 @@ const solutionDir = join(__dirname, '..', 'src', `day${paddedDay}`);
 mkdirSync(solutionDir, { recursive: true });
 
 // Create solution file
-const solutionTemplate = `import { readInput } from '@utils/input';
+const solutionTemplate = `import { readInput } from '@src/utils';
 
 function solve(input: string[]): any {
   return 0; // Your solution logic here
 }
 
-if (require.main === module) {
-  const result = solve(readInput(__dirname));
-  console.log(result);
-}`;
+// Measure performance of the solution
+const start = performance.now()
+let result = solve(readInput(__dirname))
+const end = performance.now()
+console.log(result, \`\\nOperation took \${(end - start).toFixed(3)} milliseconds\`);`;
 
 // Create empty input file and solution file
 writeFileSync(join(solutionDir, 'input.txt'), '');
