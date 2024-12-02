@@ -48,22 +48,6 @@ To run a specific day's solution:
 npm start [day]
 ```
 
-This will run both part 1 and part 2 of the specified day's solution. If no day is specified, it will run the current day.
-
-### Running Tests
-
-To run all tests:
-
-```bash
-npm test
-```
-
-To run tests for a specific day:
-
-```bash
-npm test src/dayXX
-```
-
 ## Solution Structure
 
 Each day's solution follows this template:
