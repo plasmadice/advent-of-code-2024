@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node -r tsconfig-paths/register scripts/run.ts",
+    "new": "ts-node -r tsconfig-paths/register scripts/scaffold.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.4",
+    "tsconfig-paths": "^4.2.0"
+  }
+}
