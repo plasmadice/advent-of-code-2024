@@ -1,4 +1,4 @@
-# Advent of Code 2024 Solutions
+# [Advent of Code 2024](https://adventofcode.com/2024) Solutions
 
 This repository contains my solutions for [Advent of Code 2024](https://adventofcode.com/2024) implemented in TypeScript.
 
@@ -73,3 +73,16 @@ The project includes several utility functions to help with input parsing:
 - `readInput(day: number): string` - Reads the entire input file as a string
 - `readLines(day: number): string[]` - Reads the input file and splits it into lines
 - `readNumbers(day: number): number[]` - Reads the input file and converts each line to a number
+
+# [Advent of No Code](https://www.adventofnocode.io/):
+
+Additionally, I'm trying my hand at a no-code version.
+
+### Submissions
+
+| #  | Username   | Game       | Link                                                                 |
+|----|------------|------------|----------------------------------------------------------------------|
+| 1  | bolt.new   | Tic Tac Toe| [https://tictactoe.haku.lol/](https://tictactoe.haku.lol/)             |
+| 2  | v0.dev     | Snake      | [https://bl5yozb8wkm6macs2.lite.vusercontent.net/](https://bl5yozb8wkm6macs2.lite.vusercontent.net/) |
+| 3  | val.town   | Pong       | [https://plasmadice-hyperponggame.web.val.run](https://plasmadice-hyperponggame.web.val.run)     |
+| 4  | bolt.new   | Piano      | [https://piano.haku.lol/](https://piano.haku.lol/)                     |
