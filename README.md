@@ -80,9 +80,10 @@ Additionally, I'm trying my hand at a no-code version.
 
 ### Submissions
 
-| #  | Username   | Game       | Link                                                                 |
-|----|------------|------------|----------------------------------------------------------------------|
-| 1  | bolt.new   | Tic Tac Toe| [https://tictactoe.haku.lol/](https://tictactoe.haku.lol/)             |
-| 2  | v0.dev     | Snake      | [https://bl5yozb8wkm6macs2.lite.vusercontent.net/](https://bl5yozb8wkm6macs2.lite.vusercontent.net/) |
-| 3  | val.town   | Pong       | [https://plasmadice-hyperponggame.web.val.run](https://plasmadice-hyperponggame.web.val.run)     |
-| 4  | bolt.new   | Piano      | [https://piano.haku.lol/](https://piano.haku.lol/)                     |
+| #  | Service   | Challenge       | Link                                                                 |
+|----|------------|-----------------|----------------------------------------------------------------------|
+| 1  | bolt.new   | Tic Tac Toe     | [https://tictactoe.haku.lol/](https://tictactoe.haku.lol/)             |
+| 2  | v0.dev     | Snake           | [https://bl5yozb8wkm6macs2.lite.vusercontent.net/](https://bl5yozb8wkm6macs2.lite.vusercontent.net/) |
+| 3  | val.town   | Pong            | [https://plasmadice-hyperponggame.web.val.run](https://plasmadice-hyperponggame.web.val.run)     |
+| 4  | bolt.new   | Piano           | [https://piano.haku.lol/](https://piano.haku.lol/)                     |
+| 5  | Suno       | Christmas Song  | [It's Christmas and It's me](https://suno.com/song/033b255c-c576-4674-b837-886215a73497) |
