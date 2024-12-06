@@ -87,3 +87,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 3  | val.town   | Pong            | [https://plasmadice-hyperponggame.web.val.run](https://plasmadice-hyperponggame.web.val.run)     |
 | 4  | bolt.new   | Piano           | [https://piano.haku.lol/](https://piano.haku.lol/)                     |
 | 5  | Suno       | Christmas Song  | [It's Christmas and It's me](https://suno.com/song/033b255c-c576-4674-b837-886215a73497) |
+| 6  | QR Generator | QR Code | [aonocookie](https://hwhite.dev/_next/image?url=%2Fimages%2Fblog%2Faonoc-2024-qr.png&w=640&q=100) |
