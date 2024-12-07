@@ -78,7 +78,7 @@ The project includes several utility functions to help with input parsing:
 
 Additionally, I'm trying my hand at a no-code version.
 
-### Submissions
+# Submissions
 
 | #  | Service   | Challenge       | Link                                                                 |
 |----|------------|-----------------|----------------------------------------------------------------------|
@@ -88,3 +88,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 4  | bolt.new   | Piano           | [https://piano.haku.lol/](https://piano.haku.lol/)                     |
 | 5  | Suno       | Christmas Song  | [It's Christmas and It's me](https://suno.com/song/033b255c-c576-4674-b837-886215a73497) |
 | 6  | QR Generator | QR Code | [aonocookie](https://hwhite.dev/_next/image?url=%2Fimages%2Fblog%2Faonoc-2024-qr.png&w=640&q=100) |
+| 7  | bolt.new   | Millionaire Game  | [https://cartoon-game-show.haku.lol/](https://cartoon-game-show.haku.lol/) |
