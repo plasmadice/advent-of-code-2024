@@ -1,6 +1,5 @@
 import { readInput } from '@src/utils';
-
-function solve(input: string[]): number {
+function solve(input: string[], concat: boolean = false): number {
   function evaluateExpression(numbers: number[], operators: string[]): number {
     let result = numbers[0]; // Start with the first number as the initial result.
     for (let i = 0; i < operators.length; i++) {
@@ -8,6 +7,12 @@ function solve(input: string[]): number {
         result += numbers[i + 1];
       } else if (operators[i] === '*') {
         result *= numbers[i + 1];
+      } else if (operators[i] === '||') {
+        // Concatenate the digits from its left and right inputs into a single number.
+        if (concat) {
+          const concatenated = parseInt(result.toString() + numbers[i + 1].toString(), 10);
+          result = concatenated;
+        }
       }
     }
     return result;
@@ -31,6 +36,11 @@ function solve(input: string[]): number {
       current.push('*');
       backtrack(current, index + 1);
       current.pop(); // Remove '*' to backtrack.
+
+      // Add '||' to the current combination and continue.
+      current.push('||');
+      backtrack(current, index + 1);
+      current.pop(); // Remove '||' to backtrack.
     };
 
     backtrack([], 0); // Start with an empty combination.
@@ -75,6 +85,7 @@ function solve(input: string[]): number {
 // Measure performance of the solution
 const start = performance.now(); 
 const result = solve(readInput(__dirname)); 
+const result2 = solve(readInput(__dirname), true); 
 const end = performance.now(); 
 
-console.log(result, `\nOperation took ${(end - start).toFixed(3)} milliseconds`);
+console.log(result, result2, `\nOperation took ${(end - start).toFixed(3)} milliseconds`);
