@@ -1,6 +1,6 @@
 import { readInput, gcdCalc } from '@src/utils';
 
-function solve(input: string[], second: boolean = false): number {
+function solve(input: string[], partTwo: boolean = false): number {
   const grid = input.map(row => row.split('')); // Parse grid into a 2D array
   const rows = grid.length;
   const cols = grid[0].length;
@@ -34,7 +34,7 @@ function solve(input: string[], second: boolean = false): number {
       const positions = frequencyPositions[freq];
 
       // Part 1: Only consider potential antinodes near antenna pairs
-      if (!second) {
+      if (!partTwo) {
           // Check pairs of antennas for potential antinodes
           for (let i = 0; i < positions.length; i++) {
               for (let j = i + 1; j < positions.length; j++) {

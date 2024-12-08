@@ -1,5 +1,5 @@
 import { readInput } from '@src/utils';
-function solve(input: string[], second: boolean = false): number {
+function solve(input: string[], partTwo: boolean = false): number {
   function evaluateExpression(numbers: number[], operators: string[]): number {
     let result = numbers[0]; // Start with the first number as the initial result.
     for (let i = 0; i < operators.length; i++) {
@@ -9,7 +9,7 @@ function solve(input: string[], second: boolean = false): number {
         result *= numbers[i + 1];
       } else if (operators[i] === '||') {
         // Concatenate the digits from its left and right inputs into a single number.
-        if (second) {
+        if (partTwo) {
           const concatenated = parseInt(result.toString() + numbers[i + 1].toString(), 10);
           result = concatenated;
         }

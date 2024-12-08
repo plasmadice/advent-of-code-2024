@@ -1,6 +1,6 @@
 import { readInput } from '@src/utils';
 
-function solve(input: string[]): number {
+function solve(input: string[], partTwo: boolean = false): number {
   // Define the possible movement directions in order: up, right, down, left
   const directions = [
       [-1, 0], // up
@@ -59,6 +59,7 @@ function solve(input: string[]): number {
 
 // Measure performance of the solution
 const start = performance.now()
-let result = solve(readInput(__dirname))
+const result = solve(readInput(__dirname)); // Part 1
+const result2 = solve(readInput(__dirname), true); // Part 2
 const end = performance.now()
-console.log(result, `\nOperation took ${(end - start).toFixed(3)} milliseconds`);
+console.log(result, result2, `\nOperation took ${(end - start).toFixed(3)} milliseconds`);
