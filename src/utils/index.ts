@@ -45,3 +45,8 @@ export function depthFirstSearch(graph: Record<string, string[]>, start: string)
 
   return Array.from(visited)
 }
+
+// Helper to calculate GCD for normalizing line steps
+export function gcdCalc(a: number, b: number): number {
+  return b === 0 ? Math.abs(a) : gcdCalc(b, a % b);
+}
