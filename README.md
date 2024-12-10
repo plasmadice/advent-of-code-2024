@@ -91,3 +91,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 7  | bolt.new   | Millionaire Game  | [https://cartoon-game-show.haku.lol/](https://cartoon-game-show.haku.lol/) |
 | 8  | v0.dev     | Perfect Circle  | [https://v0.dev/chat/nWKqHo0iFaT?b=xS63T1ROmMZ](https://v0.dev/chat/nWKqHo0iFaT?b=xS63T1ROmMZ) |
 | 9  | Huggingface | Personal Jingle | [https://hwhite.dev/hosted/perfectwreck.mp3](https://hwhite.dev/hosted/perfectwreck.mp3) |
+| 10 | bolt.new   | Fastest Finger First | [https://fastest-finger-first.haku.lol/](https://fastest-finger-first.haku.lol/) |
