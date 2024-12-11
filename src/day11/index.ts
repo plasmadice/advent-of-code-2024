@@ -50,7 +50,6 @@ function solve(input: string[], partTwo: boolean = false): number {
 
 // Measure performance of the solution
 const start = performance.now();
-// Solve for part one (25 blinks) and part two (75 blinks)
 const result = solve(readInput(__dirname)); 
 const result2 = solve(readInput(__dirname), true); 
 const end = performance.now();
