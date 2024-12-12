@@ -93,3 +93,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 9  | Huggingface | Personal Jingle | [https://hwhite.dev/hosted/perfectwreck.mp3](https://hwhite.dev/hosted/perfectwreck.mp3) |
 | 10 | bolt.new   | Fastest Finger First | [https://fastest-finger-first.haku.lol/](https://fastest-finger-first.haku.lol/) |
 | 11 | Luma       | AI Video        | [https://dream-machine.lumalabs.ai/share/idea/f006b41f-76c9-4d85-8c67-d8a5a0a0a67f](https://dream-machine.lumalabs.ai/share/idea/f006b41f-76c9-4d85-8c67-d8a5a0a0a67f) |
+| 12 | Huggingface | Illusion        | [https://hwhite.dev/hosted/aonoc-illusion.webp](https://hwhite.dev/hosted/aonoc-illusion.webp) |
