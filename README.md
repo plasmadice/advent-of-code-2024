@@ -74,8 +74,6 @@ The project includes several utility functions to help with input parsing:
 - `readLines(day: number): string[]` - Reads the input file and splits it into lines
 - `readNumbers(day: number): number[]` - Reads the input file and converts each line to a number
 
-# [Advent of No Code](https://www.adventofnocode.io/):
-
 Additionally, I'm trying my hand at a no-code version.
 
 ## Submissions
@@ -95,3 +93,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 11 | Luma       | AI Video        | [https://dream-machine.lumalabs.ai/share/idea/f006b41f-76c9-4d85-8c67-d8a5a0a0a67f](https://dream-machine.lumalabs.ai/share/idea/f006b41f-76c9-4d85-8c67-d8a5a0a0a67f) |
 | 12 | Huggingface | Illusion        | [https://hwhite.dev/hosted/aonoc-illusion.webp](https://hwhite.dev/hosted/aonoc-illusion.webp) |
 | 13 | Stable Diffusion | Me, But Epic     | [https://hwhite.dev/hosted/aonoc-me-but-epic.jpg](https://hwhite.dev/hosted/aonoc-me-but-epic.jpg) |
+| 14 | v0.dev     | 2048 Game      | [https://f3whuk2nuiwm70nqx.lite.vusercontent.net/](https://f3whuk2nuiwm70nqx.lite.vusercontent.net/) |
