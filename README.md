@@ -94,3 +94,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 12 | Huggingface | Illusion        | [https://hwhite.dev/hosted/aonoc-illusion.webp](https://hwhite.dev/hosted/aonoc-illusion.webp) |
 | 13 | Stable Diffusion | Me, But Epic     | [https://hwhite.dev/hosted/aonoc-me-but-epic.jpg](https://hwhite.dev/hosted/aonoc-me-but-epic.jpg) |
 | 14 | v0.dev     | 2048 Game      | [https://f3whuk2nuiwm70nqx.lite.vusercontent.net/](https://f3whuk2nuiwm70nqx.lite.vusercontent.net/) |
+| 15  | Huggingface | Penguin Protocol | [https://hwhite.dev/hosted/aonoc-penguin-protocol.png](https://hwhite.dev/hosted/aonoc-penguin-protocol.png) |
