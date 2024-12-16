@@ -95,3 +95,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 13 | Stable Diffusion | Me, But Epic     | [https://hwhite.dev/hosted/aonoc-me-but-epic.jpg](https://hwhite.dev/hosted/aonoc-me-but-epic.jpg) |
 | 14 | v0.dev     | 2048 Game      | [https://f3whuk2nuiwm70nqx.lite.vusercontent.net/](https://f3whuk2nuiwm70nqx.lite.vusercontent.net/) |
 | 15  | Huggingface | Penguin Protocol | [https://hwhite.dev/hosted/aonoc-penguin-protocol.png](https://hwhite.dev/hosted/aonoc-penguin-protocol.png) |
+| 16  | Huggingface | Christmas Voice Cloner | [https://hwhite.dev/hosted/arnold_christmas_wish.wav](https://hwhite.dev/hosted/arnold_christmas_wish.wav) |
