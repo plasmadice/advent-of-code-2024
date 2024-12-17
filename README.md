@@ -90,9 +90,10 @@ Additionally, I'm trying my hand at a no-code version.
 | 8  | v0.dev     | Perfect Circle  | [https://v0.dev/chat/nWKqHo0iFaT?b=xS63T1ROmMZ](https://v0.dev/chat/nWKqHo0iFaT?b=xS63T1ROmMZ) |
 | 9  | Huggingface | Personal Jingle | [https://hwhite.dev/hosted/perfectwreck.mp3](https://hwhite.dev/hosted/perfectwreck.mp3) |
 | 10 | bolt.new   | Fastest Finger First | [https://fastest-finger-first.haku.lol/](https://fastest-finger-first.haku.lol/) |
-| 11 | Luma       | AI Video        | [https://dream-machine.lumalabs.ai/share/idea/f006b41f-76c9-4d85-8c67-d8a5a0a0a67f](https://dream-machine.lumalabs.ai/share/idea/f006b41f-76c9-4d85-8c67-d8a5a0a0a67f) |
-| 12 | Huggingface | Illusion        | [https://hwhite.dev/hosted/aonoc-illusion.webp](https://hwhite.dev/hosted/aonoc-illusion.webp) |
+| 11 | Luma       | AI Video        | [Terror Wizard](https://hwhite.dev/hosted/aonoc-terror-wizard.mp4), [(RUNNER-UP) Dungeon Delving](https://hwhite.dev/hosted/aonoc-dungeon-delving.mp4) |
+| 12 | Huggingface | Illusion        | [Spiral Forest](https://hwhite.dev/hosted/aonoc-illusion.webp), [(RUNNER-UP) Leaf Me Alone](https://hwhite.dev/hosted/aonoc-illusion2.webp) |
 | 13 | Stable Diffusion | Me, But Epic     | [https://hwhite.dev/hosted/aonoc-me-but-epic.jpg](https://hwhite.dev/hosted/aonoc-me-but-epic.jpg) |
 | 14 | v0.dev     | 2048 Game      | [https://f3whuk2nuiwm70nqx.lite.vusercontent.net/](https://f3whuk2nuiwm70nqx.lite.vusercontent.net/) |
 | 15  | Huggingface | Penguin Protocol | [https://hwhite.dev/hosted/aonoc-penguin-protocol.png](https://hwhite.dev/hosted/aonoc-penguin-protocol.png) |
 | 16  | Huggingface | Christmas Voice Cloner | [https://hwhite.dev/hosted/arnold_christmas_wish.wav](https://hwhite.dev/hosted/arnold_christmas_wish.mp3) |
+| 17  | Stable Diffusion | Drawing With Style | [Unreality Glasses](https://hwhite.dev/hosted/aonoc-unreality-glasses.webp) |
