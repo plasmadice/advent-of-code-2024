@@ -97,3 +97,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 15  | Huggingface | Penguin Protocol | [https://hwhite.dev/hosted/aonoc-penguin-protocol.png](https://hwhite.dev/hosted/aonoc-penguin-protocol.png) |
 | 16  | Huggingface | Christmas Voice Cloner | [https://hwhite.dev/hosted/arnold_christmas_wish.wav](https://hwhite.dev/hosted/arnold_christmas_wish.mp3) |
 | 17  | Stable Diffusion | Drawing With Style | [Unreality Glasses](https://hwhite.dev/hosted/aonoc-unreality-glasses.webp) |
+| 18  | Gumloop     | YouTube to Blog Post | [https://docs.google.com/document/d/1AjtQZK62XoO247Tpmx8xSXzaa_K7PJcV5WzrfCG_LPo/edit?usp=sharing] |
