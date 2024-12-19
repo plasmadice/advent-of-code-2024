@@ -95,6 +95,7 @@ Additionally, I'm trying my hand at a no-code version.
 | 13 | Stable Diffusion | Me, But Epic     | [https://hwhite.dev/hosted/aonoc-me-but-epic.jpg](https://hwhite.dev/hosted/aonoc-me-but-epic.jpg) |
 | 14 | v0.dev     | 2048 Game      | [https://f3whuk2nuiwm70nqx.lite.vusercontent.net/](https://f3whuk2nuiwm70nqx.lite.vusercontent.net/) |
 | 15  | Huggingface | Penguin Protocol | [https://hwhite.dev/hosted/aonoc-penguin-protocol.png](https://hwhite.dev/hosted/aonoc-penguin-protocol.png) |
-| 16  | Huggingface | Christmas Voice Cloner | [https://hwhite.dev/hosted/arnold_christmas_wish.wav](https://hwhite.dev/hosted/arnold_christmas_wish.mp3) |
+| 16  | Huggingface | Christmas Voice Cloner | [https://hwhite.dev/hosted/arnold_christmas_wish.wav](https://hwhite.dev/hosted/aonoc-arnold-christmas-wish.mp3) |
 | 17  | Stable Diffusion | Drawing With Style | [Unreality Glasses](https://hwhite.dev/hosted/aonoc-unreality-glasses.webp) |
-| 18  | Gumloop     | YouTube to Blog Post | [https://docs.google.com/document/d/1AjtQZK62XoO247Tpmx8xSXzaa_K7PJcV5WzrfCG_LPo/edit?usp=sharing] |
+| 18  | Gumloop     | YouTube to Blog Post | [Docs link](https://docs.google.com/document/d/1AjtQZK62XoO247Tpmx8xSXzaa_K7PJcV5WzrfCG_LPo/edit?usp=sharing) |
+| 19  | Huggingface | Moon Object    | [https://hwhite.dev/hosted/aonoc-tesla-moon.png](https://hwhite.dev/hosted/aonoc-tesla-moon.png) |
