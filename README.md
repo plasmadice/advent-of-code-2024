@@ -87,7 +87,7 @@ Additionally, I'm trying my hand at a no-code version.
 | 5  | Suno       | Christmas Song  | [It's Christmas and It's me](https://suno.com/song/033b255c-c576-4674-b837-886215a73497) |
 | 6  | QR Generator | QR Code | [aonocookie](https://hwhite.dev/images/blog/aonoc-2024-qr.png) |
 | 7  | bolt.new   | Millionaire Game  | [https://cartoon-game-show.haku.lol/](https://cartoon-game-show.haku.lol/) |
-| 8  | v0.dev     | Perfect Circle  | [https://v0.dev/chat/nWKqHo0iFaT?b=xS63T1ROmMZ](https://v0.dev/chat/nWKqHo0iFaT?b=xS63T1ROmMZ) |
+| 8  | v0.dev     | Perfect Circle  | [Perfect Circle](https://i9zkujk6pncsdyogq.lite.vusercontent.net/) |
 | 9  | Huggingface | Personal Jingle | [https://hwhite.dev/hosted/perfectwreck.mp3](https://hwhite.dev/hosted/perfectwreck.mp3) |
 | 10 | bolt.new   | Fastest Finger First | [https://fastest-finger-first.haku.lol/](https://fastest-finger-first.haku.lol/) |
 | 11 | Luma       | AI Video        | [Terror Wizard](https://hwhite.dev/hosted/aonoc-terror-wizard.mp4), [(RUNNER-UP) Dungeon Delving](https://hwhite.dev/hosted/aonoc-dungeon-delving.mp4) |
@@ -99,3 +99,4 @@ Additionally, I'm trying my hand at a no-code version.
 | 17  | Stable Diffusion | Drawing With Style | [Unreality Glasses](https://hwhite.dev/hosted/aonoc-unreality-glasses.webp) |
 | 18  | Gumloop     | YouTube to Blog Post | [Docs link](https://docs.google.com/document/d/1AjtQZK62XoO247Tpmx8xSXzaa_K7PJcV5WzrfCG_LPo/edit?usp=sharing) |
 | 19  | Huggingface | Moon Object    | [https://hwhite.dev/hosted/aonoc-tesla-moon.png](https://hwhite.dev/hosted/aonoc-tesla-moon.png) |
+| 20  | v0.dev     | Password Validation System | [Password Validator](https://bw7n67yfajnm9red2.lite.vusercontent.net/) |
