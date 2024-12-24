@@ -101,4 +101,5 @@ Additionally, I'm trying my hand at a no-code version.
 | 20  | v0.dev     | Password Validation System | [Password Validator](https://bw7n67yfajnm9red2.lite.vusercontent.net/) |
 | 21  | bolt.new   | Button Chase   | [https://button-chase.haku.lol/](https://button-chase.haku.lol/) |
 | 22  | v0.dev     | Guess That Flag | [Hyperflag](https://exenrlmjpp7wdp9gz.lite.vusercontent.net/) |
-| 23  | Lovable.dev | Christmas Animation | [Cookie Clause](https://preview--neon-race-sleigh.lovable.app) |
+| 23  | Lovable.dev | Christmas Animation | [Cookie Clause](https://cookie-claus.haku.lol/) |
+| 24  | bolt.new   | Full-Stack No-Code | [Terminal Velocity](https://terminal-velocity.haku.lol) |
