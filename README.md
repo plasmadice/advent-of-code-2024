@@ -37,7 +37,6 @@ This will create:
 - `src/dayXX/index.ts` - Solution template with part1 and part2 functions
 - `src/dayXX/input.txt` - Empty input file for the puzzle
 
-
 If no day is specified, it will use the current date.
 
 ### Running Solutions
@@ -101,4 +100,5 @@ Additionally, I'm trying my hand at a no-code version.
 | 19  | Huggingface | Moon Object    | [https://hwhite.dev/hosted/aonoc-tesla-moon.png](https://hwhite.dev/hosted/aonoc-tesla-moon.png) |
 | 20  | v0.dev     | Password Validation System | [Password Validator](https://bw7n67yfajnm9red2.lite.vusercontent.net/) |
 | 21  | bolt.new   | Button Chase   | [https://button-chase.haku.lol/](https://button-chase.haku.lol/) |
-
+| 22  | v0.dev     | Guess That Flag | [Hyperflag](https://exenrlmjpp7wdp9gz.lite.vusercontent.net/) |
+| 23  | Lovable.dev | Cookie Chaser | [https://preview--neon-race-sleigh.lovable.app](https://preview--neon-race-sleigh.lovable.app) |
